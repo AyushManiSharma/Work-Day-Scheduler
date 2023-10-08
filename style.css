@@ -1,0 +1,62 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px
+}
+
+.current-date {
+    font-size: 1rem
+}
+
+textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: black;
+    border-left: 1px solid black;
+    padding: 10px
+}
+
+.description {
+    white-space: pre-wrap
+}
+
+.time-block {
+    border-radius: 15px
+}
+
+.row {
+    border-top: 1px solid white
+}
+
+.hour {
+    background-color: white;
+    color: black;
+    border-top: 1px dashed black
+}
+
+.time-block.past {
+    background-color: lightgrey;
+    color: white
+}
+
+.time-block.present {
+    background-color: red;
+    color: white
+}
+
+.time-block.future {
+    background-color: green;
+    color: white
+}
+
+.saveBtn {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: blue;
+    color: white
+}
+
+.saveBtn:hover i {
+    font-size: 20px;
+    transition: ease-in-out
+}
