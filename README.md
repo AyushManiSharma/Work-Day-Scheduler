@@ -46,4 +46,4 @@ Starter Code cloned from: https://github.com/coding-boot-camp/crispy-octo-meme
 # Data Entered:
 ![Alt text](./assets/image2.png)
 
-#Live: https://ayushmanisharma.github.io/Work-Day-Scheduler/
+# Live: https://ayushmanisharma.github.io/Work-Day-Scheduler/
